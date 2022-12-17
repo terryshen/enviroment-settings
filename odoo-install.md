@@ -18,3 +18,5 @@ Odoo 16.0 for Ubuntu 20.04.01
 # ufw reload
 
 http://[server_IP]:8069 访问 Odoo。
+
+https://devpress.csdn.net/linux/62eeb0e27e66823466182999.html
