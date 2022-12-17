@@ -68,5 +68,10 @@ sudo apt-get install python3-ldap
 
 安装剩下两个python3包
 
+安装完成后将指定源注释掉重新执行安装脚本
+
+# apt-get update && apt-get install odoo
+
+
 
 
