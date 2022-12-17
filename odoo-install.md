@@ -3,9 +3,9 @@ Odoo 16.0 for Ubuntu 20.04.01
 
 # apt install postgresql -y
 
-# wget -O -https://nightly.odoo.com/odoo.key | apt-key add -
+# wget -O - https://nightly.odoo.com/odoo.key | apt-key add -
 
-# echo "debhttp://nightly.odoo.com/14.0/nightly/deb/./" >> /etc/apt/sources.list.d/odoo.list
+# echo "deb http://nightly.odoo.com/14.0/nightly/deb/ ./" >> /etc/apt/sources.list.d/odoo.list
 
 # apt-get update && apt-get install odoo
 
